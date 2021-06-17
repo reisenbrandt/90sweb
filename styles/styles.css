@@ -1,0 +1,89 @@
+
+body {
+    background-color: #007B4A;
+    background-image: url(ddxh2po-85a87439-ac1f-49d7-a828-6b78d768b403.gif);
+    background-size: 5%;
+    margin-top: 50px;
+
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    font-family: 'Bebas Neue', cursive;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.90);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.center2 {
+    font-family: 'Bebas Neue', cursive;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.90);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.first {
+    margin: 2%;
+    color: #ffce29;
+    font-size: 20px;
+}
+
+.second {
+    margin: 2%;
+    color: #ff3939;
+    font-size: 30px;
+}
+
+#second2 {
+    margin: 2%;
+    color: #ff3939;
+    font-size: 30px;
+}
+
+.third {
+    margin: 2%;
+    color: #ffce29;
+    font-size: 40px;
+}
+
+.fourth {
+    margin: 2%;
+    color: #ff3939;
+    font-size: 50px;
+}
+
+.buttons {
+    display: block;
+    height: 60px;
+    background-color: #0060b7;
+    padding-top: 5px;
+    border-color: black;
+    border: 5px
+}
+
+/* .toadstool {
+    display: block;
+    margin-left: auto;
+}
+
+.mario {
+    display: block;
+    margin-right: auto;
+}
+
+.luigi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
